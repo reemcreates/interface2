@@ -101,7 +101,7 @@ submitbutton.style('border-radius','5px'); // Optional: rounded corners
     submitSound.play();
      }
      setTimeout(() => {
-    window.location.href = 'https://reemcreates.github.io/interface2/';
+    window.location.href = 'https://retxjz.github.io/screen3/';
   }, 1700);
 });
 }
